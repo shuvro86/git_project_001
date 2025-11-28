@@ -1511,7 +1511,6 @@ The journey to full CI/CD maturity is incremental. Start with continuous integra
 
 **Document Version**: 1.0  
 **Last Updated**: July 2025  
-**Authors**: DevOps Learning Team  
-**License**: CC BY-SA 4.0
+
 
 *This guide is a living document. Contributions and feedback are welcome!*
